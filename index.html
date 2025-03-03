@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="pl">
+
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-Ua-Compatible" content="IE=edge,chrome=1">
+	<link rel="icon" type="image/png" sizes="32x32" href="img/favicon-ico-32x32.png" />
+	<title>React</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="author" content="iMedia STudio">
+	<link rel="stylesheet" href="node_modules/bootstrap/dist/css/bootstrap.min.css">
+	<link rel="stylesheet" href="styles.css">
+	<script src="https://fb.me/react-with-addons-15.1.0.js"></script>
+	<script src="https://fb.me/react-dom-15.1.0.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/babel-core/5.8.34/browser.min.js"></script>
+	<script src="scripts.js" type="text/babel"></script>
+</head>
+
+<body>
+
+	<nav class="navbar navbar-inverse navbar-fixed-top">
+		<div class="container">
+			<div class="navbar-header">
+				<a class="navbar-brand" href="#">MODERN APP</a>
+				<p class="navbar-text">
+					<span class="glyphicon glyphicon-envelope" aria-hidden="true"></span>
+					<span class="glyphicon glyphicon-download" aria-hidden="true"></span>
+					<span class="glyphicon glyphicon-user" aria-hidden="true"></span>
+				</p>
+			</div>
+		</div>
+	</nav>
+
+
+	<div class="main">
+		<div class="container">
+			<div class="row">
+				<div class="col-xs-12">
+
+					<div id="content">
+
+						<div class="userTable">
+
+							<!-- Wyszukiwarka -->
+							<div class="card userSearch">
+								<form class="form-inline">
+									<div class="form-group">
+										<input type="search" class="form-control" aria-label="userSearch" />
+										<button type="submit" class="btn btn-default">Szukaj</button>
+									</div>
+								</form>
+							</div>
+
+							<!-- Lista userow -->
+							<div class="userList">
+
+								<!-- Pojedynczy user -->
+								<div class="card userRow">
+									<div class="row">
+										<div class="userRowLeft col-xs-2">
+											<img src="img/Foto-150.jpg" alt="avatar" class="img-responsive">
+										</div>
+										<div class="userRowRight col-xs-10">
+											<h4>Admin</h4>
+											<p>Lorem ipsum dolor sit amet, consectetur adipisicing.</p>
+											<div class="userRowActions">
+												<span class="glyphicon glyphicon-user" aria-hidden="true"></span>
+												<span class="glyphicon glyphicon-envelope" aria-hidden="true"></span>
+												<span class="glyphicon glyphicon-pencil" aria-hidden="true"></span>
+												<span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+											</div>
+										</div>
+									</div>
+								</div>
+
+								<!-- Pojedynczy user -->
+								<div class="card userRow">
+									<div class="row">
+										<div class="userRowLeft col-xs-2">
+											<img src="img/aiden_pearce_face_150_white.jpg" alt="avatar"
+												class="img-responsive">
+										</div>
+										<div class="userRowRight col-xs-10">
+											<h4>Guest</h4>
+											<p>Lorem ipsum dolor sit amet, consectetur adipisicing.</p>
+											<div class="userRowActions">
+												<span class="glyphicon glyphicon-user" aria-hidden="true"></span>
+												<span class="glyphicon glyphicon-envelope" aria-hidden="true"></span>
+												<span class="glyphicon glyphicon-pencil" aria-hidden="true"></span>
+												<span class="glyphicon glyphicon-star" aria-hidden="true"></span>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+
+
+						</div>
+
+					</div>
+
+				</div>
+			</div>
+		</div>
+	</div>
+
+</body>
+
+</html>

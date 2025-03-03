@@ -1,0 +1,48 @@
+body {
+	padding-top: 50px;
+	background: #b2ebf2;
+}
+
+.navbar-inverse {
+	background-color: #00838f;
+	border: none;
+}
+
+.navbar-inverse .navbar-brand {
+	color: #FFF;
+}
+
+span.glyphicon {
+	color: #FFF;
+	margin-right: 20px;
+}
+
+.btn-default {
+	background-color: #f44336;
+	color: #FFF;
+}
+
+.main {
+	margin-top: 50px;
+}
+
+.card {
+	background: #FFF;
+	margin-bottom: 20px;
+	padding: 20px;
+	box-shadow: 0 1px 1px #26c6da;
+	color: rgba(0,0,0,.87);
+}
+
+.userRowRight h4 {
+	margin-top: 0;
+}
+
+.userRowRight p {
+	color: rgba(0,0,0,.54);
+}
+
+.userRowRight .glyphicon {
+	color: rgba(0,0,0,.54);
+}
+
