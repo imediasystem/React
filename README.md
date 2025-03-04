@@ -2,7 +2,7 @@
 
 See the live version of [REACT](https://imediasystem.github.io/Sontec/)
 
-Creation of a website based on HTML, CSS and JavaScript foundations enriched with the React framework. This project is an opportunity to apply modern web development practices.
+Creation of a website based on HTML, CSS and JavaScript foundations enriched with the React framework. This project is a chance to apply modern web development practices and showcase the capabilities of the React framework.
 
 &nbsp;
 
