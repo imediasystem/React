@@ -4,6 +4,7 @@
   "description": "React Application",
   "main": "index.html",
   "dependencies": {
+    "babel-cli": "^6.26.0",
     "bootstrap": "^3.3.6",
     "express": "^4.21.2"
   },
