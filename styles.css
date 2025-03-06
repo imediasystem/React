@@ -38,7 +38,7 @@ span.glyphicon {
 	background: #FFF;
 	margin-bottom: 20px;
 	padding: 20px;
-	box-shadow: 0 1px 1px #26c6da;
+	box-shadow: 0 1px 1px grey;
 	color: rgba(0, 0, 0, .87);
 }
 
@@ -62,4 +62,8 @@ span.glyphicon {
 .userRowRight .glyphicon {
 	color: rgba(0, 0, 0, .54);
 	font-weight: bold;
+}
+
+.img-responsive {
+	border-radius: 50%;
 }
