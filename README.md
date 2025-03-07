@@ -1,3 +1,5 @@
+![React App](https://github.com/user-attachments/assets/cd38879e-ac02-435e-9ed8-bc238d95ae12)
+
 ## 🔥 Project Name - REACT
 
 See the live version of [REACT](https://imediasystem.github.io/Sontec/)
@@ -21,3 +23,8 @@ Some projects uses [node](https://nodejs.org/en/) and [npm](https://www.npmjs.co
 
 ## 🔗 See also
 Are you interested in? See my other projects and visit my website [iMedia SysteM - imediasystem.eu](https://imediasystem.eu/)
+
+&nbsp;
+
+## 📝 Feel free to contact me
+Write sth nice ;) Find me on [Linkedin](https://www.linkedin.com/in/krzysztof-graca-47698997/)
