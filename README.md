@@ -1,4 +1,4 @@
-![React App](https://github.com/user-attachments/assets/cd38879e-ac02-435e-9ed8-bc238d95ae12)
+![React App Layout](https://github.com/user-attachments/assets/2227cdd3-a16e-4ed4-9c15-b4595c66051e)
 
 ## 🔥 Project Name - REACT
 
