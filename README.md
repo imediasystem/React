@@ -2,7 +2,7 @@
 
 ## 🔥 Project Name - REACT
 
-See the live version of [REACT](https://imediasystem.github.io/Sontec/)
+See the live version of [REACT](https://imediasystem.github.io/React/)
 
 Creation of a website based on HTML, CSS and JavaScript foundations enriched with the React framework. This project is a chance to apply modern web development practices and showcase the capabilities of the React framework.
 
