@@ -67,11 +67,11 @@ var UserRow2 = React.createClass({
             <div className="card userRow">
                 <div className="row">
                     <div className="userRowLeft col-xs-2">
-                        <img src="img/Foto_Square_150.jpg" alt="avatar" className="img-responsive" />
+                        <img src="img/portrait_happy_150.jpg" alt="avatar" className="img-responsive" />
                     </div>
                     <div className="userRowRight col-xs-10">
                         <h4>Ken Butler</h4>
-                        <p>Admininstrator</p>
+                        <p>Partner</p>
                         <div className="userRowActions">
                             <span className="glyphicon glyphicon-user" aria-hidden="true"></span>
                             <span className="glyphicon glyphicon-envelope" aria-hidden="true"></span>
@@ -95,7 +95,7 @@ var UserRow3 = React.createClass({
                     </div>
                     <div className="userRowRight col-xs-10">
                         <h4>Eric Dane</h4>
-                        <p>Partner</p>
+                        <p>User</p>
                         <div className="userRowActions">
                             <span className="glyphicon glyphicon-user" aria-hidden="true"></span>
                             <span className="glyphicon glyphicon-envelope" aria-hidden="true"></span>
